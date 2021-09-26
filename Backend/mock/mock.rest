@@ -1,0 +1,15 @@
+POST http://localhost:9090/users
+content-type: application/json
+
+{
+    "name": "Vincent"
+}
+
+###
+POST http://localhost:9090/managers
+content-type: application/json
+
+{
+    "userid": 2,
+    "project": "project 3"
+}

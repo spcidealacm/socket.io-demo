@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "Tianyang",
+      "id": 1
+    },
+    {
+      "name": "Raymond",
+      "id": 2
+    },
+    {
+      "name": "Vincent",
+      "id": 3
+    }
+  ],
+  "managers": [
+    {
+      "userid": 1,
+      "project": "project 1",
+      "id": 3
+    },
+    {
+      "userid": 3,
+      "project": "project 2",
+      "id": 4
+    },
+    {
+      "userid": 2,
+      "project": "project 3",
+      "id": 5
+    }
+  ]
+}
